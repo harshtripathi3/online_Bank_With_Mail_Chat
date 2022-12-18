@@ -4,7 +4,7 @@
 
 **2.Client can login add amount to his/her account, can check balance, print passbook,can chat with server etc.**
 
-###For using project first start server.c and the run client.c
+### For using project first start server.c and the run client.c
 
 ## Tech Stack
 *C Programming*
